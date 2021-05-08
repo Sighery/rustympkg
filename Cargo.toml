@@ -11,7 +11,7 @@ keywords = ["arch-linux", "PKGBUILD", "makepkg", "arch-build-system"]
 categories = ["command-line-utilities"]
 
 [dependencies]
-rustympkglib = "0.1"
+rustympkglib = "0.1.1"
 serde_json = "1.0"
 clap = "2.33"
 
