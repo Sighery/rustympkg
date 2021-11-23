@@ -17,4 +17,4 @@ clap = "2.33"
 
 [dev-dependencies]
 assert_cmd = "2.0"
-predicates = "2.0"
+predicates = "2.1"
